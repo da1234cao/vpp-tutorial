@@ -121,3 +121,7 @@ host-vpp1out (up):
 local0 (dn):
 
 ```
+
+## 更多阅读
+
+- [Progressive VPP Tutorial — The Vector Packet Processor v25.02-rc0-121-gaa488dd3f documentation](https://s3-docs.fd.io/vpp/25.02/gettingstarted/progressivevpp/index.html)
